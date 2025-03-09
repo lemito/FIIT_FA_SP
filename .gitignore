@@ -2,6 +2,7 @@
 *.d
 
 .idea
+!.idea/icon.svg
 cmake-build-*
 *.txt
 !CMakeLists.txt
